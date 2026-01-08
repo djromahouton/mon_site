@@ -1,2 +1,13 @@
-# mon_site
-mon premier site web
+index.html
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Mon premier site</title>
+</head>
+<body>
+    <h1>Bienvenue sur mon site !</h1>
+    <p>Ceci est mon site web hébergé gratuitement.</p>
+</body>
+</html>
+
